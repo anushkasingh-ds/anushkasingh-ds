@@ -38,8 +38,6 @@ My goal is to develop strong analytical thinking and turn raw data into insights
 | Startup Analysis | Interactive exploration of Indian startup data | Python, Pandas, Streamlit | [Live Demo](https://indian-startup-analysiss.streamlit.app/) · [Source Code](https://github.com/anushkasingh-ds/indian-startup-dashbard-.git) |
 | Personal Portfolio | My learning journey and projects | HTML, CSS, JavaScript | [Live Website](https://anushkasingh-ds.github.io/Personal-Portfolio/) · [Source Code](https://github.com/anushkasingh-ds/Personal-Portfolio.git) |
 
----
-
 ## Technical Skills
 
 **Programming & Query Languages**
