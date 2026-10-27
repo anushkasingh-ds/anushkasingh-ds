@@ -1,4 +1,4 @@
-# Hi, I'm Anushka Singh -`♡´-
+# Hi, I'm Anushka ♡
 
 **Aspiring Data Analyst | Python • SQL • Data Visualization**
 
@@ -31,6 +31,15 @@ My goal is to develop strong analytical thinking and turn raw data into insights
 * Building interactive data applications using Streamlit.
 * Strengthening Excel and statistics for practical data analysis.
 
+## Featured Projects
+
+| Project | Description | Tools | Links |
+|---|---|---|---|
+| Startup Analysis | Interactive exploration of Indian startup data | Python, Pandas, Streamlit | [Live Demo](https://indian-startup-analysiss.streamlit.app/) · [Source Code](https://github.com/anushkasingh-ds/indian-startup-dashbard-.git) |
+| Personal Portfolio | My learning journey and projects | HTML, CSS, JavaScript | [Live Website](https://anushkasingh-ds.github.io/Personal-Portfolio/) · [Source Code](https://github.com/anushkasingh-ds/Personal-Portfolio.git) |
+
+---
+
 ## Technical Skills
 
 **Programming & Query Languages**
@@ -45,7 +54,7 @@ My goal is to develop strong analytical thinking and turn raw data into insights
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat" />
 </p>
 
@@ -59,6 +68,12 @@ My goal is to develop strong analytical thinking and turn raw data into insights
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </p>
 
----
+## GitHub Insights
 
-*Learning by doing. Improving with every dataset.*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anushkasingh-ds&show_icons=true&theme=transparent&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkasingh-ds&layout=compact&theme=transparent&hide_border=true" height="165" />
+</p>
+
+
+*I don't just analyze numbers. I question patterns, investigate anomalies, and look for the story behind the data.*
